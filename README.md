@@ -7,7 +7,4 @@
 
 ---
 
-    | Syntax | Description |
-    | Syntax | Description |
-    | Syntax | Description |
-    | Syntax | Description |
+O arquivo [imersaodados_03.ipynb](https://github.com/joaopasantos/imersaodados3/blob/master/imersaodados_03.ipynb) contém o código fonte e documentação das atividades realizadas durante a 3ª edição da Imersão Dados  da Alura.
