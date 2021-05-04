@@ -7,4 +7,4 @@
 
 ---
 
-O arquivo [imersaodados_03.ipynb](https://github.com/joaopasantos/imersaodados3/blob/master/imersaodados_03.ipynb) contém o código fonte e documentação das atividades realizadas durante a 3ª edição da Imersão Dados  da Alura no Google Colab.
+O arquivo [imersaodados_03.ipynb](https://github.com/joaopasantos/imersaodados3/blob/master/imersaodados_03.ipynb) contém o código fonte e documentação das atividades realizadas durante a 3ª edição da Imersão Dados  da Alura no Google Colab. Clique [aqui](https://colab.research.google.com/github/joaopasantos/imersaodados3/blob/master/imersaodados_03.ipynb) para acessar o arquivo diretamente no Google Colab.
